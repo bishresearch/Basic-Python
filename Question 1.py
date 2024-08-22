@@ -1,7 +1,7 @@
 a = int(input("Enter a value for a:" )) 
 b = int(input("Enter a value for b:")) 
 
-print("Swap not inetiated yet")
+print("Swap not ineitiated yet")
 print("a is", a, "and", "b is", b)
 
 a, b = b, a
