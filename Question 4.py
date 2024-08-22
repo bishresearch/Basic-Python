@@ -1,5 +1,7 @@
-r = float(input("Enter the value of radius: "))
+num1 = int(input("1st number: "))
+num2 = int(input("2nd number: "))
+num3 = int(input("3rd number: "))
 
-volume = (4/3) * 3.1416 * r**3
-
-print("Volume of the sphere is", volume)
+sum = num1 + num2 + num3
+avg = sum / 3
+print("average is=", avg)
